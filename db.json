@@ -1,33 +1,4 @@
 {
-    "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "id": 1,
-  "mediaUrl": "rtmp://3.22.221.38:1935/live/47c8b9ab06ed4729be03726f49fc86e4",
+  "mediaUrl": "rtmp://3.22.221.38:1935/live/47c8b9ab06ed4729be03726f49fc86e4"
 }
